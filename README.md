@@ -1,3 +1,3 @@
 # Pequeno exemplo em GameMaker  
 
-Este é um projeto básico feito no **GameMaker Studio**.
+Esses são uns pequenos e simples projetos básicos feitos no **GameMaker Studio**.
